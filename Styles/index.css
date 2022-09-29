@@ -1,0 +1,74 @@
+.Grid-container {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat 3, 1fr;
+    padding: 1em;
+    gap: 24px;
+}
+
+.Grid-item-1 {
+    background-color: green;
+    height: 195px;
+    width: 448px;
+}
+
+.Grid-item-2 {
+    background-color: yellow;
+    height: 195px;
+    width: 448px;
+}
+
+.Grid-item-3 {
+    background-color: gold;
+    height: 414px;
+    width: 448px;
+}
+
+.Grid-item-4 {
+    background-color: lime;
+    height: 268px;
+    width: 448px;
+}
+
+.Grid-item-5 {
+    background-color: darkgreen;
+    height: 122px;
+    width: 212px;
+}
+
+.Grid-item-6 {
+    background-color: yellow;
+    height: 122px;
+    width: 212px;
+}
+
+.Grid-item-7 {
+    background-color: lime;
+    height: 122px;
+    width: 448px;
+}
+
+.Grid-item-8 {
+    background-color: darkgreen;
+    height: 122px;
+    width: 448px;
+}
+
+.Grid-item-9 {
+    background-color: yellow;
+    height: 122px;
+    width: 448px;
+}
+
+.Grid-item-10 {
+    background-color: darkgreen;
+    height: 268px;
+    width: 448px;
+}
+
+.Grid-item-11 {
+    background-color: yellow;
+    height: 268px;
+    width: 212px;
+}
